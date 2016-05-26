@@ -1,0 +1,6 @@
+c:\users\cdwag\documents\visual studio 2013\Projects\FileSearchTwo\FileSearchTwo\bin\Debug\FileSearchTwo.exe.config
+c:\users\cdwag\documents\visual studio 2013\Projects\FileSearchTwo\FileSearchTwo\obj\Debug\FileSearchTwo.csprojResolveAssemblyReference.cache
+c:\users\cdwag\documents\visual studio 2013\Projects\FileSearchTwo\FileSearchTwo\bin\Debug\FileSearchTwo.exe
+c:\users\cdwag\documents\visual studio 2013\Projects\FileSearchTwo\FileSearchTwo\bin\Debug\FileSearchTwo.pdb
+c:\users\cdwag\documents\visual studio 2013\Projects\FileSearchTwo\FileSearchTwo\obj\Debug\FileSearchTwo.exe
+c:\users\cdwag\documents\visual studio 2013\Projects\FileSearchTwo\FileSearchTwo\obj\Debug\FileSearchTwo.pdb
